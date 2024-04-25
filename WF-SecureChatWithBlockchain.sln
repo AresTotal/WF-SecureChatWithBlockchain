@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF-SecureChatWithBlockchain", "WF-SecureChatWithBlockchain\WF-SecureChatWithBlockchain.csproj", "{065D2BAF-6849-4A1F-A6A2-30B027032365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF-SecureChatClient", "WF-SecureChatClient\WF-SecureChatClient.csproj", "{E0B6157F-07F0-4232-9F87-EF21A7DB67C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065D2BAF-6849-4A1F-A6A2-30B027032365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065D2BAF-6849-4A1F-A6A2-30B027032365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065D2BAF-6849-4A1F-A6A2-30B027032365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065D2BAF-6849-4A1F-A6A2-30B027032365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B6157F-07F0-4232-9F87-EF21A7DB67C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B6157F-07F0-4232-9F87-EF21A7DB67C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B6157F-07F0-4232-9F87-EF21A7DB67C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B6157F-07F0-4232-9F87-EF21A7DB67C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D537E1D-09E9-4A3B-BB7E-F533D5F02502}
+	EndGlobalSection
+EndGlobal
